@@ -5,7 +5,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -20,19 +19,11 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
-
 ### Screenshot
 
-![desktop](./design/solutioin-images/desktop.png)
-[desktop-active](./design/solutioin-images/desktop-active.png)
-[mobile](./design/solutioin-images/mobile.png)
-[mobile-active](./design/solutioin-images/mobile-active.png)
+| ![desktop](./design/solutioin-images/desktop.png) | ![desktop-active](./design/solutioin-images/desktop-active.png) |
+| --------------------------------------- | --------------------------------------- |
+| ![mobile](./design/solutioin-images/mobile.png) | ![mobile-active](./design/solutioin-images/mobile-active.png) |
 
 ### Links
 
