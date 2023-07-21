@@ -7,11 +7,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -27,8 +22,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/SrishtiSk/results-summary-componen)
+- Live Site URL: [Live site URL here](https://srishtisk.github.io/results-summary-component)
 
 ### Built with
 
